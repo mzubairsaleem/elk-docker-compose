@@ -12,7 +12,7 @@ Windows 10
 `cd elk`
 
 #### Start Docker Conatiners
-`docker-compose up`
+`docker-compose up -d --build`
 
 #### Restart Docker Containers
 `docker-compose restart`
